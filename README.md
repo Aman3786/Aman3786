@@ -2,7 +2,7 @@
 
 < @Aman3786 /> 
 
-< Total Repository />  =  16
+< Total Repository />  =  24
 
 < Languages />  =  [ Python, Java, C, Html, JavaScript ]
 
