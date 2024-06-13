@@ -2,9 +2,9 @@
 
 < @Aman3786 /> 
 
-< Total Repository />  =  24
+< Total Repository />  =  29
 
-< Languages />  =  [ Python, Java, C, Html, JavaScript ]
+< Languages />  =  [ Python, Java, Html, JavaScript ]
 
 <!---
 Aman3786/Aman3786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
